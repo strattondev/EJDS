@@ -53,3 +53,6 @@ Example Response:
     "accesses": Integer
 }
 ```
+
+### Notes
+This is a project that I have created to help fellow developers expand their horizons. I personally will probably not commit past updates on the README to clarify instructions.
